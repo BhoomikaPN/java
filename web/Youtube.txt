@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Youtube</title>
+    <style>
+        body{
+            background-color: black;
+            color: white;
+        }
+        .search-bar {
+            margin-left: 367px;
+            margin-top: -81px;
+            margin-bottom: 58px;
+
+        }
+
+        .iframe {
+            margin-right: 3pc;
+            margin-top: 10px;
+        }
+
+        .like {
+            margin-left: 26pc;
+           
+        }
+
+        .min2 {
+            margin-left: -160pc;
+            float: left;
+            margin-top: -30pc;
+        }
+
+        .min3 {
+            margin-left: 53pc;
+            float: left;
+            margin-top: -44pc;
+        }
+
+        .min4 {
+            margin-left: 53pc;
+            float: left;
+            margin-top: -27pc;
+        }
+
+        .min5 {
+            margin-left: 53pc;
+            float: left;
+            margin-top: -10pc;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>YOUTUBE</h1>
+        <img width="60px"
+            src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500">
+    </header>
+    <div class="search-bar">
+        <input type="text" placeholder="Search for videos...">
+        <input type="button" value="Search">
+    </div>
+    <div class="iframe">
+        <iframe width="800pc" height="600pc" src="https://www.youtube.com/embed/N4GFIkcp5Wo?si=CoWoVqcY5glfkBw2"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <div class="min1">
+        <i>Googly - Bisilu Kudreyondu Full Song Video | Yash, Kriti Kharbanda</i>
+        <div>
+            <h4>Bhoomika Channels</h4>
+        </div>
+    </div>
+    <div class="like">
+        <img src="like.jpg" width="200px" height="85px"></div>
+        <div class="min2">
+            <ifra<iframe width="560" height="315" src="https://www.youtube.com/embed/N4GFIkcp5Wo?si=R9gDU5vBNWpi9Skp"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="min3">
+            <iframe width="350" height="200" src="https://www.youtube.com/embed/N4GFIkcp5Wo?si=R9gDU5vBNWpi9Skp"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Googly - Bisilu Kudreyondu Full Song Video | Yash, Kriti Kharbanda</p>
+
+        </div>
+        <div class="min4">
+            <iframe width="350" height="200" src="https://www.youtube.com/embed/N4GFIkcp5Wo?si=R9gDU5vBNWpi9Skp"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Googly - Bisilu Kudreyondu Full Song Video | Yash, Kriti Kharbanda</p>
+        </div>
+        <div class="min5">
+            <iframe width="350" height="200" src="https://www.youtube.com/embed/N4GFIkcp5Wo?si=R9gDU5vBNWpi9Skp"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Googly - Bisilu Kudreyondu Full Song Video | Yash, Kriti Kharbanda</p>
+        </div>
+
+
+
+</body>
+
+</html>
